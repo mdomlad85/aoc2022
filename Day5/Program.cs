@@ -1,12 +1,12 @@
-﻿using Day3.Solution;
+﻿using Day5.Solution;
 
-namespace Day3
+namespace Day5
 {
     class Program
     {
         static void Main(string[] args)
         {
-            RucksackReorganization.Execute();
+            SupplyStacks.Execute();
         }
     }
 }

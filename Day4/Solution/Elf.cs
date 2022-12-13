@@ -1,5 +1,3 @@
-using System.Text;
-
 namespace Day4.Solution;
 
 public class Elf
